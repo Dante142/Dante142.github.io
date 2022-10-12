@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2? family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2? family=Alumni+Sans+Pinstripe&display=swap');
+
+body{
+   
+    font-family:  'Alumni Sans Pinstripe',cursive;
+    background-image: url(borde.png);
+}
+h3{
+    color: blueviolet ;
+    font-family:'Abril Fatface', cursive;
+    font-size: 24px;
+    
+}
+h5,p,a {
+    font-size: 20px;
+}
+.contenedor{
+    width: 600px;
+    background-color: white;
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 8px;
+    text-align: center;
+}
+.mifoto{
+border: 2px solid rosybrown;
+border-radius: 20px;
+height: 40%;
+}
